@@ -2,7 +2,7 @@
   "name": "SaveSort - Recipe Organizer",
   "short_name": "SaveSort",
   "description": "Organize your saved recipes from Instagram, Facebook, and the web",
-  "start_url": "/savesort-mvp.html",
+  "start_url": "start_url": "/",
   "display": "standalone",
   "background_color": "#faf8f3",
   "theme_color": "#8b6f47",
